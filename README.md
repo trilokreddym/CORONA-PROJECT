@@ -1,43 +1,58 @@
-# CORONA-PROJECT
 
 
-PROBLEM STATEMENT:
-    The main aim of this project is to create a functional Power BI interactie dashboard to know the CORONA situation acreoss diffrent countries of the world     and to provide the end user with a option to filter the data according to his choice
-    
-    
-SOURCE OF DATA:
-    Imported data from WORLDOMETER website(used live web URL)
-    
- TECH STACK USED: 
-    Excel -Power BI
-    
- STEPS FOLLOWED IN THIS PROJECT:
-    1.Connected the WEB URL data set to PowerBI
-    2.Selected the required table and loaded the data into PowerBI
-    2.Performed ETL and data cleaning on the imported data. 
-    4.In power view performed various steps like
-          -Adding slicers for countries columns(so that the user can filter by country)
-          -Added various cards for
-              -Total Cases
-              -Active cases
-              -Deaths
-              -Total recovered
-              -Total critical cases
-     5.Added various other charts and visuals to show
-              -To represent top 5 countries by active cases(creeated by using filter options(TOP N Customers))
-              -added horizontal bargraph to display country wise 
-                    -Total cases
-                    -Active cases
-                    -New cases
-                    -Serious/Critical cases
-              
-     
- 
-FINAL RESULT
+# Project Title
+
+CORONA PROJECTIONS PROJECT
 
 
-Initial Dashboard
+## PROBLEM STATEMENT
 
-Updated Dashboard
+The main aim of this project is to create a functional Power BI interactive dashboard to know the CORONA situation across different countries of the world and to provide the end user with an option to filter the data according to his choice
+## DATA SOURCE
 
-Interactive dashboard
+Imported data from WORLDOMETER website (used live web URL)
+
+
+## TECH STACK USED: 
+
+        •	Excel
+        •	Power BI
+
+## STEPS FOLLOWED IN THIS PROJECT
+
+   
+
+    •	Selected the required table and loaded the data into Power BI 
+    •	Performed ETL and data cleaning on the imported data.
+    •	In power view performed various steps like 
+        o	Adding slicers for countries columns (so that the user can filter by country) Added various cards for 
+        o	Total Cases 
+        o	Active cases 
+        o	Deaths 
+        o	Total recovered 
+        o	Total critical cases 
+    •	Added various other charts and visuals to 
+    •	Represent top 5 countries by active cases (created by using filter options (TOP N Customers))
+    •	Added horizontal bar graph to display country wise 
+        o	Total cases 
+        o	Active cases 
+        o	New cases 
+        o	Serious/Critical cases
+
+
+## FINAL RESULT
+
+        •	Initial Dashboard
+
+
+
+
+
+        •	Updated Dashboard
+
+
+
+
+
+        
+        •	Interactive dashboard
