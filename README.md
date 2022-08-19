@@ -43,7 +43,7 @@ Imported data from WORLDOMETER website (used live web URL)
 ## FINAL RESULT
 
  •	Initial Dashboard
-                <img src="PROJECT/blob/main/demo_images/initial_dashboard.PNG" class = "center">
+        <img src="PROJECT/blob/main/demo_images/initial_dashboard.PNG" class = "center">
 
  •	Interactive Dashboard
-                <img src="PROJECT/blob/main/demo_images/filtered_dashboard.PNG" class = "center">
+        <img src="PROJECT/blob/main/demo_images/filtered_dashboard.PNG" class = "center">
